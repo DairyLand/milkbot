@@ -36,3 +36,5 @@ setInterval(() => {
 }, 33 * 60 * 1000);
 
 client.login("<token>");
+
+// this needds to be a node.js project or it will not work
